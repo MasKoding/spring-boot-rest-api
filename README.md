@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://i.imgur.com/qgRaRlu.png" alt="Bot logo"></a>
+ <img  src="https://i.imgur.com/qgRaRlu.png" alt="Bot logo"></a>
 </p>
 
 <h3 align="center">Spring Boot Rest API</h3>
